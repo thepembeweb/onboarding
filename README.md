@@ -1,6 +1,6 @@
 # React Native Onboarding App
 
-> This project showcases o simple onboarding experience built with React Native and Expo.
+> This project showcases a simple onboarding experience built with React Native and Expo.
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
